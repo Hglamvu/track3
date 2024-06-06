@@ -13,28 +13,28 @@ public class TestSachDAO {
 		SachDAO.getInstance().insert(sach2);
 		
 		
-		//test update
+		//test chuc nang update
 //		Sach sach2 = new Sach("LTJS", "Lap trinh JavaScript", 150000, 2025);
 //		SachDAO.getInstance().update(sach2);
 		
 		
-		//test delete
+		//test chuc nang delete
 //		Sach sach2 = new Sach("LTJS", "Lap trinh JavaScript", 150000, 2025);
 //		SachDAO.getInstance().delete(sach2);
 		
-		//test select all 
+		//test chuc nang select all 
 //		ArrayList<Sach> list = SachDAO.getInstance().selectAll();
 //		for(Sach sach: list) {
 //			System.out.println(list.toString());
 //		}
 		
-		//test select by id 
+		//test chuc nang select by id 
 //		Sach find = new Sach();
 //		find.setId("LTC");
 //		Sach sach2 = SachDAO.getInstance().selectById(find);
 //		System.out.println(sach2);
 		
-		//test select by condition
+		//test chuc nang select by condition
 //		ArrayList<Sach> list = SachDAO.getInstance().selectByCondition("giaBan>70000");
 //		for(Sach sach: list) {
 //			System.out.println(list.toString());
