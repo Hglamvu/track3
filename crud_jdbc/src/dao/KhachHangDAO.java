@@ -8,6 +8,7 @@ import java.util.ArrayList;
 
 import database.JDBCUtil;
 import model.KhachHang;
+import model.Sach;
 
 public class KhachHangDAO implements DAOInterface<KhachHang> {
 
